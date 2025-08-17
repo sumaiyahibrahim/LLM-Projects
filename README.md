@@ -6,7 +6,7 @@ A collection of beginner-friendly projects using Large Language Models (LLMs) bu
 
 ## 📁 Projects
 
-### 🔹 [llama-chatbot](chatbot/)
+### 🔹 [chatbot](chatbot/)
 An interactive chatbot powered by Ollama’s local LLMs (e.g., LLaMA3). Accepts user input and responds like ChatGPT — completely offline.
 
 ### 🔹 [web-summarizer](web-summarizer/)
