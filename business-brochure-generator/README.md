@@ -31,6 +31,7 @@ Built with Python, BeautifulSoup, and OpenRouter (or your own LLaMA model), this
 ---
 
 ## 🗂️ Folder Structure
+```bash
 📦 business-brochure-generator/
 ├── 📄 app.py                 # Main script
 ├── 📄 scraper.py             # Website content extractor
@@ -38,7 +39,7 @@ Built with Python, BeautifulSoup, and OpenRouter (or your own LLaMA model), this
 ├── 📄 requirements.txt       # Dependencies
 ├── 📄 README.md              # Project info
 └── 📄 .gitignore             # Git ignore file
-
+```
 
 
 ---
