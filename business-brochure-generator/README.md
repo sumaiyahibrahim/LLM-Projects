@@ -36,8 +36,9 @@ Built with Python, BeautifulSoup, and OpenRouter (or your own LLaMA model), this
 ├── 📄 scraper.py             # Website content extractor
 ├── 📄 brochure_generator.py  # LLM prompt + generation logic
 ├── 📄 requirements.txt       # Dependencies
-└── 📄 README.md              # Project info
-└── 📄 .gitignore             # Git ignorefile
+├── 📄 README.md              # Project info
+└── 📄 .gitignore             # Git ignore file
+
 
 
 ---
