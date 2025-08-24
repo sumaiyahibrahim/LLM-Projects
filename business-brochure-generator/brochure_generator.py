@@ -10,7 +10,7 @@ def generate_brochure(company_name, website_text):
     
     Website Content:
     {website_text}
-
+ 
     Brochure should include:
     - About Us
     - Mission & Vision
